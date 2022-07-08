@@ -1,0 +1,44 @@
+[
+  {
+    "name": "1",
+    "asset": "assets/1.webp",
+    "height": "32",
+    "width": "32"
+  },
+  {
+    "name": "2",
+    "asset": "assets/2.png",
+    "height": "32",
+    "width": "32"
+  },
+  {
+    "name": "3",
+    "asset": "assets/3.webp",
+    "height": "42",
+    "width": "42"
+  },
+  {
+    "name": "4",
+    "asset": "assets/4.png",
+    "height": "42",
+    "width": "42"
+  },
+  {
+    "name": "5",
+    "asset": "assets/5.png",
+    "height": "42",
+    "width": "42"
+  },
+  {
+    "name": "6",
+    "asset": "assets/torii.jpeg",
+    "height": "42",
+    "width": "42"
+  },
+  {
+    "name": "7",
+    "asset": "assets/6.webp",
+    "height": "42",
+    "width": "42"
+  }
+]

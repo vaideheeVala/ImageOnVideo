@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Gif1",
+    "asset":"assets/tenor.gif",
+    "height":"32",
+    "width":"32"
+  },
+  {
+    "name":"Gif2",
+    "asset":"assets/tenor1.gif",
+    "height":"32",
+    "width":"32"
+  },
+  {
+    "name":"Gif3",
+    "asset":"assets/tenor2.gif",
+    "height":"42",
+    "width":"42"
+  },
+  {
+    "name":"Gif6",
+    "asset":"assets/tenor5.gif",
+    "height":"42",
+    "width":"42"
+  }
+]
